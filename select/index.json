@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "彩りキャンバス",
+  "base_artist": "SUGAR RUSH",
+  "createdAt": "2026-02-08T13:45:28.225726Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "彩りキャンバス",
+      "artist": "SUGAR RUSH",
+      "has_synced": true,
+      "path": "select/01_彩りキャンバス_SUGAR_RUSH.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "彩りキャンバス",
+      "artist": "SUGAR RUSH",
+      "has_synced": false,
+      "path": "select/pl_01_彩りキャンバス_SUGAR_RUSH.txt"
+    }
+  ]
+}
